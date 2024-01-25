@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maicafelipe
-- 👀 I’m interested in Web App Development.
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP. I'm at Second Year of Web App Development at IES Pere Maria Orts i Bosch (Benidorm, Alicante. Spain).
+- 👀 Studying Web App Development at IES San Vicente (San Vicente, Alicante, Spain) and IES Pere Maria Orts i Bosch (Benidorm, Alicante, Spain).
+- 🌱 I’ve learnt Java, HTML, CSS, C#, SQL. Currently learning Bootstrap, Javascript, Angular, PHP, Laravel. 
 - 💞️ I’m looking to collaborate on Begginer's projects.
 - 📫 How to reach me: You can find me here (as @maicafelipe) and also on Twitter (@maiqueta)
