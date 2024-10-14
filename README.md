@@ -6,4 +6,4 @@
 
 - Currently learning [![My Skills](https://skillicons.dev/icons?i=powershell,py)](https://skillicons.dev)
   
-- 📫 How to reach me: You can find me here  (as @maicafelipe) and also on X (@maiqueta) [![My Skills](https://skillicons.dev/icons?i=github,twitter)](https://skillicons.dev)
+- 📫 How to reach me: You can find me here and also on X (@maiqueta) [![My Skills](https://skillicons.dev/icons?i=github,twitter)](https://skillicons.dev)
